@@ -6,7 +6,7 @@ I'm currently pursuing my **M.S. in Computer Science at Northern Illinois Univer
 
 I have professional experience building and modernizing software applications using **C#, ASP.NET Core, .NET 8, Java, Spring Boot, SQL, JavaScript, React, and Azure technologies**.
 
-I enjoy building reliable backend and full-stack applications, solving software problems, debugging production issues, and continuously learning new technologies.
+I enjoy building reliable backend and full-stack applications, solving software problems, debugging application issues, and continuously learning new technologies.
 
 ## 💻 Technical Skills
 
